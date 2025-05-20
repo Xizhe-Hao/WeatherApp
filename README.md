@@ -1,4 +1,4 @@
-# Weather App - README
+# Weather App
 
 ## Project Overview
 This Android application allows users to search for and display weather information for any location using the OpenWeatherMap API. The app shows current temperature, weather conditions, min/max temperatures, sunrise/sunset times, wind speed, pressure, and humidity.
